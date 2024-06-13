@@ -1,4 +1,5 @@
-## Hi there 👋
+## Student at BITS Pilani, Goa Campus
+Computer Science + Biological Sciences Undergrad
 
 <!--
 **Omkar-Sathe/Omkar-Sathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
